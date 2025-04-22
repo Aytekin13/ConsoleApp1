@@ -98,20 +98,11 @@ namespace ConsoleApp1
                 default:
                     Console.WriteLine("Duzgun simvolu daxil edin");
                     break;
-
-
-
-
-            }
-
-
-
-
-
-
-
+             }
 
 
         }
+  
+    
     }
 }
